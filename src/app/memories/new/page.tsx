@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 export default function NewMemory() {
   return (
-    <div className="flec-col flex flex-1 gap-4">
+    <div className="flec-col flex flex-1 gap-4 p-16">
       <Link
         href="/"
         className="item-center flex gap-1 text-sm text-gray-200 hover:text-gray-100"
